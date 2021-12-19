@@ -16,6 +16,7 @@
 - 📫 How to reach me **azule107@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+https://discord.c99.nl/widget/theme-1/461531225983680512.png
 <p align="left">
 <a href="https://twitter.com/azule81102229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azule81102229" height="30" width="40" /></a>
 <a href="https://fb.com/azu le" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="azu le" height="30" width="40" /></a>
