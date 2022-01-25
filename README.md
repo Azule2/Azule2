@@ -24,7 +24,7 @@
 <a href="https://twitter.com/azule81102229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azule81102229" height="30" width="40" /></a>
 <a href="https://fb.com/azu le" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="azu le" height="30" width="40" /></a>
 <a href="https://instagram.com/azule551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azule551" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/azule_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="azule_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCVGSHXbXa4ILEpLisbxSqOQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="azule_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
