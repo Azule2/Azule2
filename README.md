@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **IMine**
 
-- 🌱 I’m currently learning **Dart and C and ruby and c++ and python**
+- 🌱 I’m currently learning **Python, Java, ML, DB, DS, C++**
 
-- 🤝 I’m looking for help with **Minecraft and Application and launcher Devloper**
+- 🤝 I’m looking for help with **MachineLearning,DeepLearning**
 
 - 📫 How to reach me **azule107@gmail.com**
 
